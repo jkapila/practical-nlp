@@ -32,25 +32,15 @@ All the notebooks will be crystalized in the coming months.
 
 ### Chapterwise code notebooks:
 
-  
   <details>
-        <summary> Chapter 2: NLP Pipeline  </summary>
- 
+    <summary><a href="https://github.com/practical-nlp/practical-nlp/tree/master/Ch02" >Chapter 2: NLP Pipeline </a></summary><p>
   
-        [Link to folder](https://github.com/practical-nlp/practical-nlp/tree/master/Ch02)
-        
-        
-        1. **[Web Scraping using BeautifulSoup](https://git.io/JJF20)**: Here we demostrate to scrape a web page(we use stackoverflow.com here as an example) and parse html using bs4 to find and extract relevant information.
-        
-        2. **[Web Scraping using Scrapy](https://git.io/JJF2X)** : Here we demonstrate how to use scrapy to scrape data from websites and save it using a pipeline.
-        
-        3. **[Text Extraction from Images](https://git.io/JJF2d)**: Here we demostrate how we can use py-tesseract to extract text from images. 
-        
-        4. **[Common Pre-processing Steps](https://git.io/JJF2A)**: Here we demonstrate the most commonly performed text pre-processing steps using various libraries. 
-        
-        5. **[Data Augmentation](https://git.io/JJF2h)**: Here we demonstrate data augmentation using nlpaug.
-        
-        
+   1. **[Web Scraping using BeautifulSoup](https://git.io/JJF20)**: Here we demostrate to scrape a web page(we use stackoverflow.com here as an example) and parse html using bs4 to find and extract relevant information.
+  2. **[Web Scraping using Scrapy](https://git.io/JJF2X)** : Here we demonstrate how to use scrapy to scrape data from websites and save it using a pipeline.
+  3. **[Text Extraction from Images](https://git.io/JJF2d)**: Here we demostrate how we can use py-tesseract to extract text from images. 
+  4. **[Common Pre-processing Steps](https://git.io/JJF2A)**: Here we demonstrate the most commonly performed text pre-processing steps using various libraries. 
+  5. **[Data Augmentation](https://git.io/JJF2h)**: Here we demonstrate data augmentation using nlpaug.
+   </p>
    </details>
    
    
