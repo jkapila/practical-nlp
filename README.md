@@ -33,7 +33,7 @@ All the notebooks will be crystalized in the coming months.
 ### Chapterwise code notebooks:
 
   <details>
-    <summary><a href="https://github.com/practical-nlp/practical-nlp/tree/master/Ch02" >Chapter 2: NLP Pipeline </a></summary><p>
+    <summary><a href="https://github.com/practical-nlp/practical-nlp/tree/master/Ch02" > Chapter 2: NLP Pipeline </a></summary><p>
   
    1. **[Web Scraping using BeautifulSoup](/Ch02/01_WebScraping_using_BeautifulSoup.ipynb)**: Here we demostrate to scrape a web page(we use stackoverflow.com here as an example) and parse html using bs4 to find and extract relevant information.
   2. **[Web Scraping using Scrapy](/Ch02/02_WebScraping_using_scrapy/)** : Here we demonstrate how to use scrapy to scrape data from websites and save it using a pipeline.
@@ -44,7 +44,35 @@ All the notebooks will be crystalized in the coming months.
    </details>
    
    
-  * [Chapter 3: Text Representation](https://github.com/practical-nlp/practical-nlp/tree/master/Ch3) 
+ details>
+    <summary><a href="(https://github.com/practical-nlp/practical-nlp/tree/master/Ch03" > Chapter 3: Text Representation </a></summary><p>
+  
+   
+    1. **[One-Hot Encoding](/Ch03/01_OneHotEncoding.ipynb)**: Here we demonstrate One-Hot encoding from first principle as well as scikit learn's implementation on our toy corpus.
+
+    2. **[Bag of Words](/Ch30/02_Bag_of_Words.ipynb)** : Here we demostrate how to arrive at the bag of words representation for our toy corpus.
+
+
+    3. **[Bag of N Grams](/Ch03/03_Bag_of_N_Grams.ipynb)**: Here we demonstrate how Bag of N Grams work using our toy corpus.
+
+    4. **[TF-IDF](/Ch03/04_TF_IDF.ipynb)**: Here we demonstrate how to obtain the get the TF-IDF representation of a document using sklearn's TfidfVectorizer(we will be using our toy corpus). 
+
+    5. **[Pre-trained Word Embeddings](/Ch03/05_Pre_Trained_Word_Embeddings.ipynb)**: Here we demonstrate how we can represent text using pre-trained word embedding models and how to use them to get respresentations for the full text.
+
+    6. **[Custom Word Embeddings](/Ch03/06_Training_embeddings_using_gensim.ipynb)**: Here we demonstrate how to train a custom Word Embedding model(word2vec) using gensim on both, our toy corpus and a subset of wikipedia data.
+
+    7. **[Vector Representations via averaging](/Ch03/07_DocVectors_using_averaging_Via_spacy.ipynb)**: Here we demonstrate averaging of Document Vectors using spaCy.
+
+    8. **[Doc2Vec Model](/Ch03/08_Training_Dov2Vec_using_Gensim.ipynb)**: Here we demonstrate how to train your own doc2vec model.
+
+    9. **[Visualizing Embeddings Using TSNE](/Ch03/09_Visualizing_Embeddings_Using_TSNE.ipynb)**: Here we demonstrate how we can use dimensionality reduction techniques such as TSNE to visualize embeddings.
+
+    10. **[Visualizing Embeddings using Tensorboard](/Ch03/10_Visualizing_Embeddings_using_Tensorboard.ipynb)**: Here we demonstrate how we can visualize embeddings using Tensorboard.
+
+   </p>
+   </details>
+   
+
 
   * [Chapter 4: Text Classification](https://github.com/practical-nlp/practical-nlp/tree/master/Ch4) 
   
